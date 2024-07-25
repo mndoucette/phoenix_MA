@@ -1,4 +1,4 @@
-#!/bin/bash -l
+#!/bin/bash 
 #set +e
 #
 # Description: script to check for file integrity and log errors 
